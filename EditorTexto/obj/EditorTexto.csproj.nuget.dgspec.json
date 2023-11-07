@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\EditorTexto.csproj": {}
+    "/run/media/balu/38CC99B8CC99713C/DESENVOLVIMENTO/Balta/Exercicios/EditorTexto/EditorTexto.csproj": {}
   },
   "projects": {
-    "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\EditorTexto.csproj": {
+    "/run/media/balu/38CC99B8CC99713C/DESENVOLVIMENTO/Balta/Exercicios/EditorTexto/EditorTexto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\EditorTexto.csproj",
+        "projectUniqueName": "/run/media/balu/38CC99B8CC99713C/DESENVOLVIMENTO/Balta/Exercicios/EditorTexto/EditorTexto.csproj",
         "projectName": "EditorTexto",
-        "projectPath": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\EditorTexto.csproj",
-        "packagesPath": "C:\\Users\\Balu\\.nuget\\packages\\",
-        "outputPath": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\obj\\",
+        "projectPath": "/run/media/balu/38CC99B8CC99713C/DESENVOLVIMENTO/Balta/Exercicios/EditorTexto/EditorTexto.csproj",
+        "packagesPath": "/home/balu/.nuget/packages/",
+        "outputPath": "/run/media/balu/38CC99B8CC99713C/DESENVOLVIMENTO/Balta/Exercicios/EditorTexto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Balu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/balu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.123/RuntimeIdentifierGraph.json"
         }
       }
     }
