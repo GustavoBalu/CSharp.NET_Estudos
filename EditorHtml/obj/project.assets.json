@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\EditorTexto.csproj",
-      "projectName": "EditorTexto",
-      "projectPath": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\EditorTexto.csproj",
+      "projectUniqueName": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorHtml\\EditorHtml.csproj",
+      "projectName": "EditorHtml",
+      "projectPath": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorHtml\\EditorHtml.csproj",
       "packagesPath": "C:\\Users\\Balu\\.nuget\\packages\\",
-      "outputPath": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorTexto\\obj\\",
+      "outputPath": "F:\\DESENVOLVIMENTO\\Balta\\Exercicios\\EditorHtml\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Balu\\AppData\\Roaming\\NuGet\\NuGet.Config"
